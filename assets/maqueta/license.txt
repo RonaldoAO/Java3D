@@ -1,0 +1,11 @@
+Model Information:
+* title:	CASA NAS MONTANHAS
+* source:	https://sketchfab.com/3d-models/casa-nas-montanhas-4f937fc501694029acaf6a62972543fd
+* author:	isa-bosquet (https://sketchfab.com/isa-bosquet)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CASA NAS MONTANHAS" (https://sketchfab.com/3d-models/casa-nas-montanhas-4f937fc501694029acaf6a62972543fd) by isa-bosquet (https://sketchfab.com/isa-bosquet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
