@@ -17,6 +17,6 @@ public class DesktopLauncher {
 		config.setWindowedMode(Toolkit.getDefaultToolkit().getScreenSize().width,
 				Toolkit.getDefaultToolkit().getScreenSize().height);
 		//new Lwjgl3Application(new MyGdxGame(), config);
-		new Lwjgl3Application(new Laberinto(), config);
+		new Lwjgl3Application(new MyGdxGame(), config);
 	}
 }
